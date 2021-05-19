@@ -1,0 +1,25 @@
+body {
+background-image: url("./images/img-bg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.timer {
+  display: flex;
+  font-size: 50px;
+  align-items: center;
+  height: 250px;
+  color: black;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 190px;
+  margin: 5px;
+  padding: 10px;
+}
+
+
