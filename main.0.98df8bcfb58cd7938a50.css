@@ -1,0 +1,1 @@
+body{background-image:url(images/img-bg.jpeg);background-size:cover;background-repeat:no-repeat}.timer{font-size:50px;height:250px;color:#000}.field,.timer{display:flex;align-items:center}.field{flex-direction:column;justify-content:center;width:190px;margin:5px;padding:10px}
